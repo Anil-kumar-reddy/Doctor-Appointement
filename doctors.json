@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Anjali Mehta",
+    "specialization": "Cardiologist",
+    "availability": "Available Today",
+    "image": "/assets/anjali.jpg",
+    "schedule": {
+      "2025-08-03": ["09:00 AM", "11:00 AM", "02:00 PM"]
+    }
+  },
+  {
+    "id": "2",
+    "name": "Dr. Rajeev Verma",
+    "specialization": "Dermatologist",
+    "availability": "Fully Booked",
+    "image": "/assets/rajeev.jpg",
+    "schedule": {}
+  }
+]
